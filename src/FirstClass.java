@@ -1,8 +1,8 @@
 
 public class FirstClass {
 	public static void main(String[] args) {
-		System.out.println("initial change");
-		//this is the initial change
+		System.out.println("first change");
+		//this is the first change
 	}
 
 }
